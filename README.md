@@ -74,7 +74,3 @@ Màn hình app gồm:
 - App chỉ thay đổi cấu hình nhà mạng liên quan đến VoLTE. Không sửa hệ thống, không cần root, không ảnh hưởng bảo hành.
 - Bấm **Khôi phục mặc định** là máy trở về cấu hình gốc.
 - Khoá ghép nối cho phép app tự kết nối Gỡ lỗi không dây trên máy. Bạn có thể thu hồi bất cứ lúc nào trong *Gỡ lỗi không dây → Thiết bị đã ghép nối*.
-
----
-
-*Ghi chú kỹ thuật cho người phát triển: xem `.claude/MEMORY.md`.*
