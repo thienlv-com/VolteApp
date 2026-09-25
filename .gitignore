@@ -1,0 +1,31 @@
+# Gradle / Android build output
+.gradle/
+build/
+*/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Build artifacts
+*.apk
+*.aab
+*.dex
+*.class
+volte/out/
+
+# Signing keys
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
